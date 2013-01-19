@@ -1,9 +1,9 @@
 import javax.swing.JFrame;
 /**
- * Write a description of class Runner here.
+ * Runs BingoGame
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Daniel Mai, Baotuan Nguyen
+ * @version 3/2/2012
  */
 public class Runner
 {

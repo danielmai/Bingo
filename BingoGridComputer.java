@@ -6,7 +6,7 @@ import java.awt.Font;
 import java.util.ArrayList;
 import java.awt.Color;
 /**
- * This board will play by itself
+ * Bingo board for the computer. This board will play by itself.
  * 
  * @author Daniel Mai, Baotuan Nguyen
  * @version 02/27/12

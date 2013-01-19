@@ -6,7 +6,7 @@ import java.awt.Font;
 import java.util.ArrayList;
 import java.awt.Color;
 /**
- * Write a description of class BingoBoardHuman here.
+ * Bingo board for the human player
  * 
  * @author Daniel Mai, Baotuan Nguyen
  * @version 02/27/12

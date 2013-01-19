@@ -5,7 +5,7 @@ import java.awt.Font;
 import java.util.ArrayList;
 import java.awt.Color;
 /**
- * Write a description of class BingoBoard here.
+ * A bingo board
  * 
  * @author Daniel Mai, Baotuan Nguyen
  * @version 02/27/12
